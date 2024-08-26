@@ -20,7 +20,7 @@
 		<maven.complier.source>${java.version}</maven.complier.source>
 		<maven.complier.target>${java.version}</maven.complier.target>
 		<guava.version>20.0</guava.version>
-		<swagger.version>2.6.1</swagger.version>
+		<swagger.version>2.10.0</swagger.version>
 	</properties>
 
 	<dependencies>
